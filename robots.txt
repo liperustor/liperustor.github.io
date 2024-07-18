@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://liperustor.github.io/sitemap
+Sitemap: https://liperustor.github.io/app/sitemap
+Sitemap: https://liperustor.github.io/assets/sitemap
+Sitemap: https://liperustor.github.io/css/sitemap
+Sitemap: https://liperustor.github.io/includes/sitemap
+Sitemap: https://liperustor.github.io/item/sitemap
+Sitemap: https://liperustor.github.io/src/sitemap
